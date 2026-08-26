@@ -1,8 +1,22 @@
 # ShopIt
 
-ShopIt is a cloud-based shopping application built around Python, AI, and cloud infrastructure.
+ShopIt is an AI-powered shopping platform designed to help users discover, understand, compare, and purchase products through a single web application.
 
-The project focuses on building a complete product while integrating backend development, databases, cloud deployment, payments, and AI-powered shopping functionality.
+The goal is to build a complete, production-oriented shopping product where users can browse products, search for what they need, receive AI-assisted recommendations and insights, manage their shopping activity, and complete purchases securely.
+
+The application is built with Python as the primary backend technology, with AI integrated into the shopping experience and cloud infrastructure used for deployment, data, and file storage.
+
+## Core Product Goals
+
+ShopIt focuses on:
+
+- Product discovery and search
+- AI-assisted shopping and recommendations
+- Product comparison and analysis
+- User accounts and personalized shopping activity
+- Secure online payments
+- Cloud-based application and data infrastructure
+- A scalable Python backend
 
 ## Tech Stack
 
